@@ -1,3 +1,5 @@
 # Accelerometer-calibration-3-axis
-you will get the code to calibrate 3 axis accelerometer sensor 
-you can watch tutorials on our youtube channel https://www.youtube.com/c/SMEDehradun
+this code will help you to calibrate 3 axis accelerometer sensor 
+Youtube tutorial for this code is avaialable at https://youtu.be/UxHglxqVFg0
+
+you can watch other tutorials on our youtube channel https://www.youtube.com/c/SMEDehradun
