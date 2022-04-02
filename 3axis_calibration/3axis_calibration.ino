@@ -28,7 +28,7 @@ void adxl()
   Serial.print(yv);
   Serial.print(" z= " );
   Serial.println(zv);
-/*****************open it once you done claibration******************
+/*
   if((xv<280) || (xv>380) || (yv<280) || (yv>380))
   {
     Serial.println("Accident happen");
